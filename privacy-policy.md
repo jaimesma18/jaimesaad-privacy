@@ -65,6 +65,7 @@ This privacy policy page was created at privacypolicytemplate.net and modified/g
 
 
 Política de privacidad
+
 Jaime Saad Mograbi Abadi creó la aplicación World Album Qatar 2022 como una aplicación con publicidad. Este SERVICIO es proporcionado por Jaime Saad Mograbi Abadi sin costo alguno y está destinado a ser utilizado tal cual.
 Esta página se utiliza para informar a los visitantes sobre mis políticas con respecto a la recopilación, el uso y la divulgación de Información personal si alguien decide utilizar mi Servicio.
 Si elige usar mi Servicio, entonces acepta la recopilación y el uso de información en relación con esta política. La información personal que recopilo se utiliza para proporcionar y mejorar el Servicio. No usaré ni compartiré su información con nadie, excepto como se describe en esta Política de privacidad.
@@ -94,7 +95,13 @@ Contáctenos
 Si tiene alguna pregunta o sugerencia sobre mi Política de privacidad, no dude en ponerse en contacto conmigo en saadjaime18@gmail.com.
 Esta página de política de privacidad fue creada en privacypolicytemplate.net y modificada/generada por App Privacy Policy Generator
 
+
+
+
+
+
 Política de Privacidade
+
 Jaime Saad Mograbi Abadi criou o aplicativo World Album Qatar 2022 como um aplicativo Ad Supported. Este SERVIÇO é fornecido por Jaime Saad Mograbi Abadi sem custo e destina-se ao uso como está.
 Esta página é usada para informar os visitantes sobre minhas políticas de coleta, uso e divulgação de Informações Pessoais se alguém decidir usar meu Serviço.
 Se você optar por usar meu Serviço, concorda com a coleta e uso de informações em relação a esta política. As Informações Pessoais que eu coleto são usadas para fornecer e melhorar o Serviço. Não usarei ou compartilharei suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
