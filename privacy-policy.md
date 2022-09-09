@@ -11,12 +11,13 @@ Information Collection and Use
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-The app does use third-party services that may collect information used to identify you.
+The app does use third-party services that may collect information used to identify you, such as your advertising ID, IP address and others.
 
 Link to the privacy policy of third-party service providers used by the app
 
 Google Play Services
 AdMob
+Appodeal (visit their Privacy Policy here: https://www.appodeal.com/privacy-policy)
 Google Analytics for Firebase
 Log Data
 
@@ -72,11 +73,15 @@ Si elige usar mi Servicio, entonces acepta la recopilación y el uso de informac
 Los términos utilizados en esta Política de privacidad tienen los mismos significados que en nuestros Términos y condiciones, a los que se puede acceder en World Album Qatar 2022 a menos que se defina lo contrario en esta Política de privacidad.
 Recopilación y uso de información
 Para una mejor experiencia, mientras usa nuestro Servicio, puedo solicitarle que nos proporcione cierta información de identificación personal. La información que solicito se conservará en su dispositivo y yo no la recopilaré de ninguna manera.
-La aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarlo.
+La aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarlo, como su ID Publicitario, dirección IP y otros.
 Enlace a la política de privacidad de los proveedores de servicios de terceros utilizados por la aplicación
-Servicios de Google Play AdMob Datos de registro de Google Analytics para Firebase
+Servicios de Google Play
+AdMob
+Appodeal (visita su política de privacidad aquí: https://www.appodeal.com/privacy-policy)
+Datos de registro
+Google Analytics para Firebase
 Quiero informarle que cada vez que usa mi Servicio, en caso de un error en la aplicación, recopilo datos e información (a través de productos de terceros) en su teléfono llamado Datos de registro. Estos datos de registro pueden incluir información como la dirección del Protocolo de Internet ("IP") de su dispositivo, el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación cuando utiliza mi Servicio, la hora y la fecha de su uso del Servicio y otras estadísticas. .
-Galletas
+Cookies:
 Las cookies son archivos con una pequeña cantidad de datos que se utilizan comúnmente como identificadores únicos anónimos. Estos se envían a su navegador desde los sitios web que visita y se almacenan en la memoria interna de su dispositivo.
 Este Servicio no utiliza estas "cookies" de forma explícita. Sin embargo, la aplicación puede usar código y bibliotecas de terceros que usan "cookies" para recopilar información y mejorar sus servicios. Tiene la opción de aceptar o rechazar estas cookies y saber cuándo se envía una cookie a su dispositivo. Si elige rechazar nuestras cookies, es posible que no pueda utilizar algunas partes de este Servicio.
 Proveedores de servicio
@@ -108,11 +113,15 @@ Se você optar por usar meu Serviço, concorda com a coleta e uso de informaçõ
 Os termos usados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, que podem ser acessados no World Album Qatar 2022, a menos que definido de outra forma nesta Política de Privacidade.
 Coleta e uso de informações
 Para uma melhor experiência, ao usar nosso Serviço, posso exigir que você nos forneça determinadas informações de identificação pessoal. As informações que eu solicitar serão retidas no seu dispositivo e não serão coletadas por mim de forma alguma.
-O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
+O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo, como seu ID de publicidade, endereço IP e outros.
 Link para a política de privacidade de provedores de serviços terceirizados usados pelo aplicativo
-Google Play Services AdMob Google Analytics para dados de registro do Firebase
+Google Play Services
+AdMob
+Appodeal (visite sua política de privacidade aqui: https://www.appodeal.com/privacy-policy)
+Google Analytics do Firebase
+Dados de registro
 Quero informar que sempre que você usar meu Serviço, em caso de erro no aplicativo, coleto dados e informações (através de produtos de terceiros) em seu telefone chamado Log Data. Esses Dados de Registro podem incluir informações como o endereço do Protocolo de Internet (“IP”) do seu dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar meu Serviço, a hora e a data de seu uso do Serviço e outras estatísticas .
-biscoitos
+Cookies:
 Cookies são arquivos com uma pequena quantidade de dados que são comumente usados como identificadores exclusivos anônimos. Eles são enviados para o seu navegador a partir dos sites que você visita e são armazenados na memória interna do seu dispositivo.
 Este Serviço não usa esses “cookies” explicitamente. No entanto, o aplicativo pode usar código de terceiros e bibliotecas que usam “cookies” para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado ao seu dispositivo. Se você optar por recusar nossos cookies, talvez não consiga usar algumas partes deste Serviço.
 Provedores de serviço
